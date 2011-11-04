@@ -1,0 +1,35 @@
+#box1{
+    width:290px;
+    height:290px;
+    position:absolute;
+    padding:5px;
+    background:#000;    
+}
+
+#box2{
+    width:290px;
+    height:290px;
+    position:absolute;
+    left:320px;
+    padding:5px;
+    background:#7E7E7E; 
+}
+
+#box3{
+    width:290px;
+    height:290px;
+    position:absolute;
+    padding:5px;
+    top:320px;
+    background:#15FCED;    
+}
+
+#box4{
+    width:290px;
+    height:290px;
+    position:absolute;
+    padding:5px;
+    top:320px;
+    left:320px;
+    background:#FC964C;    
+}
